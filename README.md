@@ -11,6 +11,7 @@
 
 ## Some of my recent work ⚙️
 
+- BabyClaw - network restricted and TLS+HTTP inspected OpenClaw deployment I'm using for running personalized news digest via Telegram bot. [repo](https://github.com/sdkks/babyclaw)
 - Deep researcher plugin with a visualizer — it outputs machine-readable Markdown reports or fully offline HTML with zero CDN dependencies. [repo](https://github.com/sdkks/deep-researcher-visualized)
 - A snappy, read-only MDViewer fork. Supports themes, has a sidebar for docs and topics, and CMD+K to autocomplete paths. I use this every day. [repo](https://github.com/sdkks/mdviewer)
 - Nesdit (nested edit). Ingest serialized data, transform it with JQ-like expressions, and export in different formats. Great for auditing configs, writing rules, and checking manifests. [repo](https://github.com/sdkks/nesdit)
