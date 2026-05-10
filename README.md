@@ -11,12 +11,12 @@
 
 ## Some of my recent work ⚙️
 
-- Deep researcher plugin with visualizer. It can provide machine readable md reports or downloadable no-CDN fully offline HTML. [repo](https://github.com/sdkks/deep-researcher-visualized)
-- Very improved fork of MDViewer. Snappy, read only viewer. Supports themes, has a sidebar to list docs and their topics, CMD+K lets you autocomplete doc paths. I use it every day. [repo](https://github.com/sdkks/mdviewer)
-- Nesdit aka nested edit. It can ingest serialized data and output in different format after editing it with JQ-like expressions. It can also be used for checking if a given document is in compliance with your expressions. Useful for writing rules, manifests, auditing configurations. [repo](https://github.com/sdkks/nesdit)
-- My homebrew tap repo where I distribute prebuilt binaries, new. [repo](https://github.com/sdkks/homebrew-tap)
-- Some core utilities for everyday developer, like a Swiss army knife. It' all embedded HTML, you can download and use it without internet connectivity. [link](https://sdkks.github.io/core-developer-utils-web/)
-- Flashcards game. You can use it for language study, trivia games, pretty much anything. Fully static and the data belongs to you. [link](https://sdkks.github.io/flashcards_game/?sample_game=AI-LLM-Agentic-300-Concepts)
-- A fork with some debugging improvements, run your applications in macos sandbox using config files. [repo](https://github.com/sdkks/bx-mac)
-- Small utility for rewriting author information in a repository for privacy. Keeps your personal or work email off the public commits if you don't want the junk email. [repo](https://github.com/sdkks/sanitize-git-history)
-- A nostalgic minesweeper game. I'm going to figure out the original theme eventualy. [repo](https://github.com/sdkks/minesweeper_game), [game](https://sdkks.github.io/minesweeper_game/)
+- Deep researcher plugin with a visualizer — it outputs machine-readable Markdown reports or fully offline HTML with zero CDN dependencies. [repo](https://github.com/sdkks/deep-researcher-visualized)
+- A snappy, read-only MDViewer fork. Supports themes, has a sidebar for docs and topics, and CMD+K to autocomplete paths. I use this every day. [repo](https://github.com/sdkks/mdviewer)
+- Nesdit (nested edit). Ingest serialized data, transform it with JQ-like expressions, and export in different formats. Great for auditing configs, writing rules, and checking manifests. [repo](https://github.com/sdkks/nesdit)
+- My Homebrew tap for distributing prebuilt binaries. Still pretty new. [repo](https://github.com/sdkks/homebrew-tap)
+- Core developer utilities — a Swiss army knife, all embedded HTML so it works completely offline. [link](https://sdkks.github.io/core-developer-utils-web/)
+- A flashcards game for language study, trivia, or anything you want. Fully static and your data stays yours. [link](https://sdkks.github.io/flashcards_game/?sample_game=AI-LLM-Agentic-300-Concepts)
+- A fork for running apps in macOS sandboxed environments using config files, with some debugging improvements I added. [repo](https://github.com/sdkks/bx-mac)
+- Sanitize-git-history. A small utility to rewrite commit authors and keep your personal/work email off public repos. No more junk mail. [repo](https://github.com/sdkks/sanitize-git-history)
+- A nostalgic Minesweeper game. I swear I'll nail that original theme eventually. [repo](https://github.com/sdkks/minesweeper_game), [game](https://sdkks.github.io/minesweeper_game/)
