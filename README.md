@@ -11,6 +11,7 @@
 
 ## Some of my recent work ⚙️
 
+- termin8r - MCP server that lets your AI agents see and control interactive terminal (TUI) applications. Perfect for development and debugging. [repo](https://github.com/sdkks/termin8r)
 - 7bridges - A translation layer that let's you use other models (DeepSeek and Kimi Code for now) with Anthropic's Claude Code via messages/v1 with as little breakage as possible [repo](https://github.com/sdkks/7bridges)
 - BabyClaw - network restricted and TLS+HTTP inspected OpenClaw deployment I'm using for running personalized news digest via Telegram bot. [repo](https://github.com/sdkks/babyclaw)
 - Deep researcher plugin with a visualizer — it outputs machine-readable Markdown reports or fully offline HTML with zero CDN dependencies. [repo](https://github.com/sdkks/deep-researcher-visualized)
