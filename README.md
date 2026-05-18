@@ -11,6 +11,7 @@
 
 ## Some of my recent work ⚙️
 
+- math-edu - Math tools like calculators, graphing tools to help you understand and practice concepts. Designed for students Year 3 to Year 12/13. [link](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs) **(WIP)**
 - example-claude-settings - Smooth way of running Claude Code sessions while blocking dangerous commands and auto-approving safe ones and falling back to LLM judge when all else fails. [repo](https://github.com/sdkks/example-claude-settings)
 - termin8r - MCP server that lets your AI agents see and control interactive terminal (TUI) applications. Perfect for development and debugging. [repo](https://github.com/sdkks/termin8r)
 - 7bridges - A translation layer that let's you use other models (DeepSeek, Kimi Code API and Ollama for now) with Anthropic's Claude Code via messages/v1 with as little breakage as possible [repo](https://github.com/sdkks/7bridges)
