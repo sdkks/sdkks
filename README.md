@@ -11,6 +11,7 @@
 
 ## Some of my recent work ⚙️
 
+- skipjack-mcp - Can run both as MCP and CLI for performing tiered (fallback) or parallel searches and AI ready (md format) output with built-in `fetch` functionality. [repo](https://github.com/sdkks/skipjack-mcp)
 - LazyFox - Lethargic tab sleeper. Save precious system resources. Available for Firefox and Chrome, soon on Firefox store. [repo](https://github.com/sdkks/lazyfox)
 - math-edu - Math tools like calculators, graphing tools to help you understand and practice concepts. Designed for students Year 3 to Year 12/13. [link](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs)
 - example-claude-settings - Smooth way of running Claude Code sessions while blocking dangerous commands and auto-approving safe ones and falling back to LLM judge when all else fails. [repo](https://github.com/sdkks/example-claude-settings)
