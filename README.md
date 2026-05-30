@@ -11,20 +11,22 @@
 
 ## Some of my recent work ⚙️
 
-- symbol-index - Symbol and semantic search of your repo by your coding agents for massive tokens savings. [repo](https://github.com/sdkks/symbol-index)
-- skipjack-mcp - Can run both as MCP and CLI for performing tiered (fallback) or parallel searches and AI ready (md format) output with built-in `fetch` functionality. [repo](https://github.com/sdkks/skipjack-mcp)
-- LazyFox - Lethargic tab sleeper. Save precious system resources. Available for Firefox and Chrome, soon on Firefox store. [repo](https://github.com/sdkks/lazyfox)
-- math-edu - Math tools like calculators, graphing tools to help you understand and practice concepts. Designed for students Year 3 to Year 12/13. [link](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs)
-- example-claude-settings - Smooth way of running Claude Code sessions while blocking dangerous commands and auto-approving safe ones and falling back to LLM judge when all else fails. [repo](https://github.com/sdkks/example-claude-settings)
-- termin8r - MCP server that lets your AI agents see and control interactive terminal (TUI) applications. Perfect for development and debugging. [repo](https://github.com/sdkks/termin8r)
-- 7bridges - A translation layer that let's you use other models (DeepSeek, Kimi Code API and Ollama for now) with Anthropic's Claude Code via messages/v1 with as little breakage as possible [repo](https://github.com/sdkks/7bridges)
-- BabyClaw - network restricted and TLS+HTTP inspected OpenClaw deployment I'm using for running personalized news digest via Telegram bot. [repo](https://github.com/sdkks/babyclaw)
-- Deep researcher plugin with a visualizer — it outputs machine-readable Markdown reports or fully offline HTML with zero CDN dependencies. [repo](https://github.com/sdkks/deep-researcher-visualized)
-- A snappy, read-only MDViewer fork. Supports themes, has a sidebar for docs and topics, and CMD+K to autocomplete paths. I use this every day. [repo](https://github.com/sdkks/mdviewer)
-- Nesdit (nested edit). Ingest serialized data, transform it with JQ-like expressions, and export in different formats. Great for auditing configs, writing rules, and checking manifests. [repo](https://github.com/sdkks/nesdit)
-- My Homebrew tap for distributing prebuilt binaries. Still pretty new. [repo](https://github.com/sdkks/homebrew-tap)
-- Core developer utilities — a Swiss army knife, all embedded HTML so it works completely offline. [link](https://sdkks.github.io/core-developer-utils-web/)
-- A flashcards game for language study, trivia, or anything you want. Fully static and your data stays yours. [link](https://sdkks.github.io/flashcards_game/?sample_game=AI-LLM-Agentic-300-Concepts)
-- A fork for running apps in macOS sandboxed environments using config files, with some debugging improvements I added. [repo](https://github.com/sdkks/bx-mac)
-- Sanitize-git-history. A small utility to rewrite commit authors and keep your personal/work email off public repos. No more junk mail. [repo](https://github.com/sdkks/sanitize-git-history)
-- A nostalgic Minesweeper game. I swear I'll nail that original theme eventually. [repo](https://github.com/sdkks/minesweeper_game), [game](https://sdkks.github.io/minesweeper_game/)
+| Project | Description | Links |
+|---|---|---|
+| symbol-index | Symbol and semantic search of your repo by your coding agents for massive token savings | [repo](https://github.com/sdkks/symbol-index) |
+| skipjack-mcp | Multi-provider search MCP/CLI with tiered fallback, parallel dispatch, and AI-ready markdown output | [repo](https://github.com/sdkks/skipjack-mcp) |
+| termin8r | MCP server that lets AI agents see and control interactive terminal (TUI) applications | [repo](https://github.com/sdkks/termin8r) |
+| 7bridges | Translation layer for using other models (DeepSeek, Kimi, Ollama) with Claude Code via messages/v1 | [repo](https://github.com/sdkks/7bridges) |
+| deep-researcher-visualized | Deep research plugin with visualizer — outputs machine-readable Markdown or fully offline HTML with zero CDN deps | [repo](https://github.com/sdkks/deep-researcher-visualized) |
+| LazyFox | Lethargic tab sleeper for Firefox and Chrome — save precious system resources | [repo](https://github.com/sdkks/lazyfox) |
+| example-claude-settings | Claude Code config: block dangerous commands, auto-approve safe ones, fall back to LLM judge | [repo](https://github.com/sdkks/example-claude-settings) |
+| Nesdit | Ingest serialized data, transform with JQ-like expressions, export in different formats | [repo](https://github.com/sdkks/nesdit) |
+| BabyClaw | Network-restricted, TLS+HTTP inspected OpenClaw deployment for personalized news digest via Telegram | [repo](https://github.com/sdkks/babyclaw) |
+| mdviewer | Snappy read-only Markdown viewer with themes, sidebar, and CMD+K path autocomplete | [repo](https://github.com/sdkks/mdviewer) |
+| math-edu | Math tools (calculators, graphing) for students Year 3 to Year 12/13 | [repo](https://github.com/sdkks/math-edu) · [live](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs) |
+| core-developer-utils | Swiss army knife of dev tools, fully embedded HTML — works completely offline | [live](https://sdkks.github.io/core-developer-utils-web/) |
+| flashcards-game | Flashcards for language study, trivia, or anything — fully static, your data stays yours | [live](https://sdkks.github.io/flashcards_game/?sample_game=AI-LLM-Agentic-300-Concepts) |
+| sanitize-git-history | Rewrite commit authors to keep personal/work email off public repos | [repo](https://github.com/sdkks/sanitize-git-history) |
+| minesweeper-game | Nostalgic Minesweeper — still chasing that original theme | [repo](https://github.com/sdkks/minesweeper_game) · [play](https://sdkks.github.io/minesweeper_game/) |
+| homebrew-tap | Homebrew tap for distributing prebuilt binaries | [repo](https://github.com/sdkks/homebrew-tap) |
+| bx-mac | Fork for running macOS apps in sandboxed environments via config files, with debugging improvements | [repo](https://github.com/sdkks/bx-mac) |
