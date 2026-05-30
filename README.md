@@ -1,13 +1,15 @@
-## Hi there 👋 This is my read me, my very own manpage.
+## Shortly about me
+
+I’ve been building and operating systems for over a decade. Started in tech support and sysadmin work, moved into DevOps and SRE, then into platform engineering. I’ve run Kubernetes clusters, built CI/CD pipelines across AWS, GCP, and Azure, and written a fair bit of Go and Python along the way. Lately I’ve been building MCP servers, Claude Code plugins, and other agentic tooling. I specialize in cloud infrastructure, SRE, and automation.
 
 - 🔭 I build agents, skills, and plugins — and think a lot about intelligent agentic graph routing.
 - 🌱 I’m currently learning React.
-- 👯 I'm always excited to collaborate on productivity tooling. Making tools that help people work better is what gets me going.
-- 🤔 If something I've made or written has been useful to you, I'd love help getting it in front of more people who might benefit from it.
-- 💬 Happy to chat about hacking on agentic coding tools, inference methods, or whatever you're tinkering with.
+- 👯 I’m always excited to collaborate on productivity tooling. Making tools that help people work better is what gets me going.
+- 🤔 If something I’ve made or written has been useful to you, I’d love help getting it in front of more people who might benefit from it.
+- 💬 Happy to chat about hacking on agentic coding tools, inference methods, or whatever you’re tinkering with.
 - 📫 Feel free to reach out via my [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdedBt9l6Sownm4NwhGOQTzge5K4-rMz1nRceJ512RTj1eJag/viewform?usp=publish-editor), [Ko-Fi](https://ko-fi.com/sdkks), or [LinkedIn](https://www.linkedin.com/in/sakkas/).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I used to burn through tokens at the arcade as a kid. Now I've got proper gaming gear, but somehow I'm still burning through heaps of tokens. Some things never change.
+- ⚡ Fun fact: I used to burn through tokens at the arcade as a kid. Now I’ve got proper gaming gear, but somehow I’m still burning through heaps of tokens. Some things never change.
 
 ## Some of my recent work ⚙️
 
