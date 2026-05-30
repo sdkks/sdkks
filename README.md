@@ -11,6 +11,7 @@
 
 ## Some of my recent work ⚙️
 
+- symbol-index - Symbol and semantic search of your repo by your coding agents for massive tokens savings. [repo](https://github.com/sdkks/symbol-index)
 - skipjack-mcp - Can run both as MCP and CLI for performing tiered (fallback) or parallel searches and AI ready (md format) output with built-in `fetch` functionality. [repo](https://github.com/sdkks/skipjack-mcp)
 - LazyFox - Lethargic tab sleeper. Save precious system resources. Available for Firefox and Chrome, soon on Firefox store. [repo](https://github.com/sdkks/lazyfox)
 - math-edu - Math tools like calculators, graphing tools to help you understand and practice concepts. Designed for students Year 3 to Year 12/13. [link](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs)
