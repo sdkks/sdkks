@@ -16,6 +16,7 @@ I’ve been building and operating systems for over a decade. Started in tech su
 | Project | Description | Links |
 |---|---|---|
 | symbol-index | Symbol and semantic search of your repo by your coding agents for massive token savings | [repo](https://github.com/sdkks/symbol-index) |
+| awesome-localdb | Curated catalog of embedded databases — discover, compare, and find code examples for DBs that run without a server | [repo](https://github.com/sdkks/awesome-localdb) · [live](https://sdkks.github.io/awesome-localdb/) |
 | skipjack-mcp | Multi-provider search MCP/CLI with tiered fallback, parallel dispatch, and AI-ready markdown output | [repo](https://github.com/sdkks/skipjack-mcp) |
 | termin8r | MCP server that lets AI agents see and control interactive terminal (TUI) applications | [repo](https://github.com/sdkks/termin8r) |
 | 7bridges | Translation layer for using other models (DeepSeek, Kimi, Ollama) with Claude Code via messages/v1 | [repo](https://github.com/sdkks/7bridges) |
