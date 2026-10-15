@@ -1,26 +1,25 @@
-## Shortly about me
+## A bit about me
 
-I’ve been building and operating systems for over a decade. Started in industrial tech and sysadmin work, moved into DevOps and SRE, then into platform engineering. I’ve run Kubernetes clusters, built CI/CD pipelines across AWS, GCP, and Azure, and written a fair bit of Go and Python along the way. Lately I’ve been building MCP servers, Claude Code plugins, and other agentic tooling. I specialize in cloud infrastructure, SRE, and automation.
+I’m a generalist who’s been building and operating systems for over a decade. Started in industrial tech and sysadmin work, moved into DevOps and SRE, then into platform engineering. I’ve run Kubernetes clusters, built CI/CD pipelines across AWS, GCP, and Azure, and written a fair bit of Go and Python along the way.
 
-- 🔭 I work on harness engineering, agents, skills, MCPs among other things.
+- 🔭 These days I work on harness engineering, agents, skills, and MCP servers, with a focus on open standards and conventions.
 - 👯 I’m always excited to collaborate on productivity tooling. Making tools that help people work better is what gets me going.
 - 🤔 If something I’ve made or written has been useful to you, I’d love help getting it in front of more people who might benefit from it.
 - 💬 Happy to chat about hacking on agentic coding tools, inference methods, or whatever you’re tinkering with.
 - 📫 Feel free to reach out via my [contact form](https://docs.google.com/forms/d/e/1FAIpQLSdedBt9l6Sownm4NwhGOQTzge5K4-rMz1nRceJ512RTj1eJag/viewform?usp=publish-editor), [Ko-Fi](https://ko-fi.com/sdkks), or [LinkedIn](https://www.linkedin.com/in/sakkas/).
 
-## Some of my recent work ⚙️
+## Some of my work ⚙️
 
 | Project                 | Description                                                                                                               | Links                                                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Glance                  | Minimalist, high-performance desktop image viewer in Rust — broad format coverage, animation, multi-window                | [repo](https://github.com/sdkks/glance) · [releases](https://github.com/sdkks/glance/releases)                                              |
+| jett                    | Jettison the junk — terminal disk usage explorer with a dry-run cleanup mode                                              | [repo](https://github.com/sdkks/jett) · [releases](https://github.com/sdkks/jett/releases)                                                  |
 | ACSM                    | CLI for turning videos into animated WebP contact sheets, static sheets, screenshots and preview reels                  | [repo](https://github.com/sdkks/animated-contact-sheet-maker) · [releases](https://github.com/sdkks/animated-contact-sheet-maker/releases) |
 | tabgram                 | Fast CLI for finding recurring n-gram patterns across file paths and other line-based datasets                            | [repo](https://github.com/sdkks/tabgram)                                                                                                    |
 | awesome-localdb         | Curated catalog of embedded databases — discover, compare, and find code examples for DBs that run without a server       | [repo](https://github.com/sdkks/awesome-localdb) · [live](https://sdkks.github.io/awesome-localdb/)                                         |
-| folor                   | Tail files recursively in a directory when they match a glob (_.log, _.jsonl, \*.ndlog) and including newly created files | [repo](https://github.com/sdkks/folor)                                                                                                      |
+| folor                   | Tail matching files across a directory tree, including newly created files (`*.log`, `*.jsonl`, `*.ndlog`)                | [repo](https://github.com/sdkks/folor)                                                                                                      |
 | LazyFox                 | Lethargic tab sleeper for Firefox and Chrome — save precious system resources                                             | [repo](https://github.com/sdkks/lazyfox)                                                                                                    |
-| example-claude-settings | Claude Code config: block dangerous commands, auto-approve safe ones, fall back to LLM judge                              | [repo](https://github.com/sdkks/example-claude-settings)                                                                                    |
-| Nesdit                  | Ingest serialized data, transform with JQ-like expressions, export in different formats                                   | [repo](https://github.com/sdkks/nesdit)                                                                                                     |
-| BabyClaw                | Network-restricted, TLS+HTTP inspected OpenClaw deployment for personalized news digest via Telegram                      | [repo](https://github.com/sdkks/babyclaw)                                                                                                   |
+| Nesdit                  | Edit and convert JSON, YAML, and TOML with jq-style queries, in place or through a pipe                                    | [repo](https://github.com/sdkks/nesdit)                                                                                                     |
 | mdviewer                | Snappy read-only Markdown viewer with themes, sidebar, and CMD+K path autocomplete                                        | [repo](https://github.com/sdkks/mdviewer)                                                                                                   |
 | math-edu                | Math tools (calculators, graphing) for students Year 3 to Year 12/13                                                      | [repo](https://github.com/sdkks/math-edu) · [live](https://sdkks.github.io/math-edu/?tool=linear-equation-graphs)                           |
 | core-developer-utils    | Swiss army knife of dev tools, fully embedded HTML — works completely offline                                             | [live](https://sdkks.github.io/core-developer-utils-web/)                                                                                   |
